@@ -18,6 +18,7 @@
 
 # build output: prefer out-of-tree builds
 build/
+builds/
 
 # MacOS
 .DS_Store
